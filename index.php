@@ -41,6 +41,7 @@ $err = "Username atau password salah!";
 <p>Daftar kontribusi anggota:</p>
 <p>Nathan sebagai Development Team</p>
  <p>Fico sebagai Frontend</p>
+ <p>keren</p>
 </div>
 </body>
 </html>
