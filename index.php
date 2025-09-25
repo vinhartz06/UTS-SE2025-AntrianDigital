@@ -43,6 +43,7 @@ $err = "Username atau password salah!";
 <p>James sebagai anggota scrum master</p>
 <p>Nathan sebagai Development Team</p>
 <p>Fico sebagai Frontend</p>
+<p>Vincent sebagai Backend</p>
 </div>
 </body>
 </html>
